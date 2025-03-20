@@ -1,7 +1,7 @@
-# Hello! I'm Seine👋🏻:
-👩🏻‍🎓 Junior at Ekamai International School
-💤 currently working own a deep learning project
-👩🏻‍💻 AI Enthusiast
+# Hello! I'm Seine👋🏻  
+👩🏻‍🎓 Junior at Ekamai International School  
+💤 Currently working on a deep learning project  
+👩🏻‍💻 AI Enthusiast  
 
 
 # 💻 Tech Stack:

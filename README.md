@@ -1,6 +1,5 @@
 # Hello! I'm Seine👋🏻  
-👩🏻‍🎓 Junior at Ekamai International School  
-💤 Currently working on a deep learning project  
+👩🏻‍🎓 EECS @ UC Berkeley
 👩🏻‍💻 AI Enthusiast  
 
 
